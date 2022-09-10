@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MongoURI": "mongodb+srv://ashok:test100@cluster0.896ph1s.mongodb.net/local_library?retryWrites=true&w=majority",
+    "PORT": 5000,
+    "JWTSECRETKEY": "TpqAKQgvhZE4r6AOzpVydJ9a3tB1BLMrgDzLlBLbihKNDzSJWTAHMVbsMoIOpnM6"
+  }
+}
